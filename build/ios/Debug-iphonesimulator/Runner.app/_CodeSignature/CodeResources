@@ -138,7 +138,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		b7OOexhvnywtT8J4Ozfo7ZIdRFs=
+		YHXH0tlXIF4SEyhbIMgl6Uzai8c=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -146,19 +146,23 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		A+deiO1uTIQ7co0TnModNZLLTTQ=
+		SIqJIbIavG16jKSiU4JEB/y+J4I=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		+h2r4Ph6O1yvIqMlqAD/v+5IRPE=
+		+BW5Xu4E3h0JdFlZv5UzSc7n2Sc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		N3GyCO+078+S5UggurakNxIgxqc=
+		8QChlKSyTswiKNr4hxFB8WthSGE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
 		Zn83HfVCSGp5iMOGbQB3S2PDY2s=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/fonts/IMFellEnglish-Italic.ttf</key>
+		<data>
+		nfOv1CDwx6NK69T70sNhsHLuaw0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
@@ -172,6 +176,26 @@
 		<data>
 		Yklk8iPhBNHGTB9Pvt+NKY40Cig=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/fonts/SourceSansPro-Regular.ttf</key>
+		<data>
+		rbEoAsoysIDkV2Qpe7tQ79PyPhk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/cavallo.png</key>
+		<data>
+		0niX2Wz9D8II68PyMlaKiNZz3NY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/grado.jpeg</key>
+		<data>
+		LfSev6drT9a4TkjTtbgjJ3hiy0I=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/kn.png</key>
+		<data>
+		NojR2ZEdHj5QreDDaHoWN0h7Nhg=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/images/linenClub.jpeg</key>
+		<data>
+		4IM0V4TB8pW5CX6sQDwXJnobvCk=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/images/rich.png</key>
 		<data>
 		gBfX2VLzsHVJNZ/y3qSkrwV5H1U=
@@ -182,7 +206,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		/FJz7uWXsSeftIDZV1XsnYEYmu4=
+		khSHXhcZY6wZ43EK2zs77/hYmdE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -522,7 +546,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hQ/ZMZFl8Ep4HbHmwMVATGFShcNo+ZcRD/ran/Rk0dU=
+			6fSyg1L98Hl5D52NuBQw2Q9nIPD1kFWG3hbf4jQe344=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -536,21 +560,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qi4qGwxgLa3+GwiOn4Sm385Q21beSohtLto/KIsbHlo=
+			JyjxejUC3tgD1i/Kup4q5NEIbOfPKxbDlCCkv5GcpiY=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WEZX96KnqEZBhb71WSUq+T2/Eg395R+0M5t8G7AARf8=
+			3KwR2SJNTvhTrNhaS/o3W8Ju+JpmTRWCYzHdSdRXRGo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qc7AIDhsWSDeR4a7UMgneMEVm3g10IKoX6iOB1IihN0=
+			aLkHgysBNDgxsk2Y9TxKpRkjVvfN/6UgOJ3VTblgvGg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
@@ -558,6 +582,13 @@
 			<key>hash2</key>
 			<data>
 			F7TU8lD+x++zcPIASnOrjQm1kgDF7oKSxF4zx7RpYXk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/fonts/IMFellEnglish-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VClTYG34f/Adseq5xwqMx4NPkrPrIHLCzQDhbg+CpDo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
@@ -581,6 +612,41 @@
 			9jXYWN5N0oxT/iMVY81OeRmDf9gsahrw0ujx30Ue7dc=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/fonts/SourceSansPro-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pMB6OgntxxoFPT7XjWn/GtQvLx9rnxEJC9589hg1XHg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/cavallo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ErcQ+ZG1R9CxMd0q1MmixMeVYiDJk+QoNsvQVF8/W7c=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/grado.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bx5r/XQOQ2aexCUU3fCSs6RuEKYXMi7gTl4sWznTv8Y=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/kn.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LlBC4jJ4VSTbDnx1Hvg7+KMHC2UD5bzfnGm2KldOjB4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/images/linenClub.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vYEvxZDuWns/pvgFpuSAbLfsMPG3GplITeL2690Yf0Y=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/images/rich.png</key>
 		<dict>
 			<key>hash2</key>
@@ -599,7 +665,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wDAebtFKE7PxDKIu9U8FI8yZmtXG9B3f+vGcDeStMg8=
+			62Xv/X4Laf1RMHFKlO1NUcbB6/ykuwNiJc74tUiRW30=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
